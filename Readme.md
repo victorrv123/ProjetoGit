@@ -1,1 +1,1 @@
-Olá esse projeto ensina você a usar o git
+Olá, este é um arquivo teste, para aprender a usar o Git e GitHub. Isso é uma alteração
